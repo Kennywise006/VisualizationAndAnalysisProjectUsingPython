@@ -1,5 +1,6 @@
 #### *About Me*
 ![image](https://github.com/Kennywise006/VisualizationAndAnalysisProjectUsingPython/assets/153424402/242098a0-ec1a-43d0-b680-ba7e46ca3b08)
+
 Passionate and results-driven Data Scientist dedicated to driving business success through the power of data. I specialize in transforming raw information into strategic insights, employing cutting-edge analytics and machine learning methodologies.
 
 #### *Skills*
