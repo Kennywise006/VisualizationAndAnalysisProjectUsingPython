@@ -1,4 +1,6 @@
 #### *About Me*
+![image](https://github.com/Kennywise006/VisualizationAndAnalysisProjectUsingPython/assets/153424402/e363c690-3829-499e-a53e-e97bad0d9dcd)
+
 I am a passionate Data Scientist with a focus on leveraging advanced analytics and machine learning techniques to solve real-world problems. My expertise lies in exploring and analyzing complex datasets to derive meaningful insights.
 
 #### *Skills*
